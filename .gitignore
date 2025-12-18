@@ -9,5 +9,8 @@ models.json
 CLAUDE.md
 Akina.lnk
 
+# This file
+.gitignore
+
 # Windows reserved name artifacts (created by bash errors)
 nul
