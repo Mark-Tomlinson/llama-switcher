@@ -8,3 +8,6 @@ models.json
 .claude
 CLAUDE.md
 Akina.lnk
+
+# Windows reserved name artifacts (created by bash errors)
+nul
