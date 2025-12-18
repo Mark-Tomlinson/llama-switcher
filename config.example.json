@@ -1,0 +1,14 @@
+{
+    "modelsPath": "D:\\path\\to\\your\\models",
+    "llamaServerPath": "llama-server",
+    "port": 8080,
+    "defaultContextSize": 24576,
+    "gpuLayers": 40,
+    "window": {
+        "x": 50,
+        "y": 50,
+        "width": 800,
+        "height": 600,
+        "title": "llama.cpp Model Switcher"
+    }
+}

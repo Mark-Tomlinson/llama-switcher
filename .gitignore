@@ -1,0 +1,10 @@
+# User-specific config (use config.example.json as template)
+config.json
+
+# Auto-generated model cache
+models.json
+
+# Claude Code instructions (not needed for users)
+.claude
+CLAUDE.md
+Akina.lnk
